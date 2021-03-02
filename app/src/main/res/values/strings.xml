@@ -1,0 +1,22 @@
+<resources>
+    <!--
+    <string name="app_name">MA01_20160940</string>
+    <string name="all_serch_ski_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?ServiceKey=CqN2WlXUgQWzmnNXMbObqVQPd%2F5cYm8BsJO3C3fob01kXDRTd99UKkaJQgoTPQnOtvZpXhj1ubh%2Fthvk5D7Drg%3D%3D&amp;contentTypeId=28&amp;areaCode=&amp;sigunguCode=&amp;cat1=A03&amp;cat2=A0302&amp;cat3=A03021200&amp;listYN=Y&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;arrange=A&amp;numOfRows=18</string>
+    <string name="all_serch_rt_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?serviceKey=CqN2WlXUgQWzmnNXMbObqVQPd%2F5cYm8BsJO3C3fob01kXDRTd99UKkaJQgoTPQnOtvZpXhj1ubh%2Fthvk5D7Drg%3D%3D&amp;numOfRows=25&amp;pageSize=108&amp;MobileApp=AppTest&amp;MobileOS=AND&amp;arrange=A&amp;cat1=A03&amp;contentTypeId=28&amp;cat2=A0302&amp;cat3=A03022600</string>
+    <string name="server_rental_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/locationBasedList?ServiceKey=CqN2WlXUgQWzmnNXMbObqVQPd%2F5cYm8BsJO3C3fob01kXDRTd99UKkaJQgoTPQnOtvZpXhj1ubh%2Fthvk5D7Drg%3D%3D&amp;contentTypeId=28&amp;radius=4000&amp;listYN=Y&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;arrange=A&amp;numOfRows=20&amp;pageNo=1&amp;mapX=</string>
+    <string name="search_keyword_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/searchKeyword?serviceKey=CqN2WlXUgQWzmnNXMbObqVQPd%2F5cYm8BsJO3C3fob01kXDRTd99UKkaJQgoTPQnOtvZpXhj1ubh%2Fthvk5D7Drg%3D%3D&amp;MobileApp=AppTest&amp;MobileOS=AND&amp;numOfRows=10&amp;pageSize=10&amp;listYN=Y&amp;arrange=A&amp;contentTypeId=28&amp;cat1=A03&amp;cat2=A0302&amp;cat3=</string>
+    <string name="common_info">http://api.visitkorea.or.kr/openapi/service/rest/KorService/detailCommon?serviceKey=CqN2WlXUgQWzmnNXMbObqVQPd%2F5cYm8BsJO3C3fob01kXDRTd99UKkaJQgoTPQnOtvZpXhj1ubh%2Fthvk5D7Drg%3D%3D&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;contentTypeId=28&amp;defaultYN=Y&amp;firstImageYN=Y&amp;catcodeYN=Y&amp;addrinfoYN=Y&amp;mapinfoYN=Y&amp;overviewYN=Y&amp;contentId=</string>
+-->
+
+    <string name="app_name">MA01_20160940</string>
+    <string name="all_serch_ski_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?ServiceKey=qAHOiAu5Jg6zglND6eV67Dv5YewaWatmx9sIPIGz2vxPvgo5%2FyvqK4SEab%2F3Ulk4ipl3DwF6I8bMXVCDZFQ9ow%3D%3D&amp;contentTypeId=28&amp;areaCode=&amp;sigunguCode=&amp;cat1=A03&amp;cat2=A0302&amp;cat3=A03021200&amp;listYN=Y&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;arrange=A&amp;numOfRows=18</string>
+    <string name="all_serch_rt_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?serviceKey=qAHOiAu5Jg6zglND6eV67Dv5YewaWatmx9sIPIGz2vxPvgo5%2FyvqK4SEab%2F3Ulk4ipl3DwF6I8bMXVCDZFQ9ow%3D%3D&amp;numOfRows=25&amp;pageSize=108&amp;MobileApp=AppTest&amp;MobileOS=AND&amp;arrange=A&amp;cat1=A03&amp;contentTypeId=28&amp;cat2=A0302&amp;cat3=A03022600</string>
+    <string name="server_rental_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/locationBasedList?ServiceKey=qAHOiAu5Jg6zglND6eV67Dv5YewaWatmx9sIPIGz2vxPvgo5%2FyvqK4SEab%2F3Ulk4ipl3DwF6I8bMXVCDZFQ9ow%3D%3D&amp;contentTypeId=28&amp;radius=4000&amp;listYN=Y&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;arrange=A&amp;numOfRows=20&amp;pageNo=1&amp;mapX=</string>
+    <string name="search_keyword_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/searchKeyword?serviceKey=qAHOiAu5Jg6zglND6eV67Dv5YewaWatmx9sIPIGz2vxPvgo5%2FyvqK4SEab%2F3Ulk4ipl3DwF6I8bMXVCDZFQ9ow%3D%3D&amp;MobileApp=AppTest&amp;MobileOS=AND&amp;numOfRows=10&amp;pageSize=10&amp;listYN=Y&amp;arrange=A&amp;contentTypeId=28&amp;cat1=A03&amp;cat2=A0302&amp;cat3=</string>
+    <string name="common_info">http://api.visitkorea.or.kr/openapi/service/rest/KorService/detailCommon?serviceKey=qAHOiAu5Jg6zglND6eV67Dv5YewaWatmx9sIPIGz2vxPvgo5%2FyvqK4SEab%2F3Ulk4ipl3DwF6I8bMXVCDZFQ9ow%3D%3D&amp;MobileOS=AND&amp;MobileApp=AppTest&amp;contentTypeId=28&amp;defaultYN=Y&amp;firstImageYN=Y&amp;catcodeYN=Y&amp;addrinfoYN=Y&amp;mapinfoYN=Y&amp;overviewYN=Y&amp;contentId=</string>
+    -->
+
+    <string name="my_image_path">/my_images</string>
+    <string name="tmp_image_path">/tmp_images</string>
+
+</resources>
